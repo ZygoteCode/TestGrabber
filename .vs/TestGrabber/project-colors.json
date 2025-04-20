@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "31dc20b2-1a9e-4efd-ad73-a3aa2829c340": {
+      "ProjectGuid": "31dc20b2-1a9e-4efd-ad73-a3aa2829c340",
+      "DisplayName": "TestGrabber",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
